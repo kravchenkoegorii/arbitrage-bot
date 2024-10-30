@@ -1,0 +1,17 @@
+export const tokenA = '0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE'; //SHIB
+export const tokenB = '0xdAC17F958D2ee523a2206206994597C13D831ec7'; // USDT
+
+export const factoryAddress = '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f';
+export const ROUTER_CONTRACT_ADDRESS = '0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D';
+
+export const FEE_DEX = 0.001;
+export const FEE_CEX = 0.003;
+export const DEPOSIT_FEE_CEX = 0.001;
+export const VOLUME = 100;
+export const SYMBOL = 'SHIBUSDT';
+
+export const METAMASK_ADDRESS = '0xD4839C5531E4947BA28405398caD12A825B84D8d';
+export const BINANCE_DEPOSIT_ADDRESSES = {
+  USDT: '0xb209a0dac2fe6fa9c03d30f5a8de60273923f829',
+  SHIB: '0xb209a0dac2fe6fa9c03d30f5a8de60273923f829',
+};
